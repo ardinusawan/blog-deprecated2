@@ -4,13 +4,13 @@
   "site_description": "Hello all!",
   "site_keywords": [
     {
-      "keyword": "Next.js"
+      "keyword": "Code"
     },
     {
-      "keyword": "Netlify"
+      "keyword": "Developer"
     },
     {
-      "keyword": "React"
+      "keyword": "Blog"
     }
   ],
   "posts_per_page": 5,
