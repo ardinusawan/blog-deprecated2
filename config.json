@@ -3,10 +3,16 @@
   "site_title": "Ardi Nusawan Blog",
   "site_description": "Hello all!",
   "site_keywords": [
-    "Code",
-    "Developer",
-    "Blog"
-  ],
+     {
+       "keyword": "Next.js"
+     },
+     {
+       "keyword": "Netlify"
+     },
+     {
+       "keyword": "React"
+     }
+   ],
   "posts_per_page": 5,
   "twitter_account": "@ardi_nusawan",
   "github_account": "ardinusawan"
