@@ -3,9 +3,7 @@
   "site_title": "Ardi Nusawan Blog",
   "site_description": "Hello all!",
   "site_keywords": [
-    "Code",
-    "Developer",
-    "Blog"
+    "{\"keyword\": \"Developer\"}"
   ],
   "posts_per_page": 5,
   "twitter_account": "@ardi_nusawan",
