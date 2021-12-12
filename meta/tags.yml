@@ -1,13 +1,15 @@
 tags:
-  - slug: document
-    name: document
-  - slug: mock
-    name: mock
-  - slug: style
-    name: style
-  - slug: license
-    name: license
-  - slug: mdx
-    name: mdx
-  - slug: markdown
-    name: markdown
+  - slug: random
+    name: Random
+  - slug: message-queue
+    name: Message Queue
+  - slug: tutorial
+    name: Tutorial
+  - slug: personal
+    name: Personal
+  - slug: tips-and-tricks
+    name: Tips and Tricks
+  - slug: vim
+    name: Vim
+  - slug: iot
+    name: IoT
