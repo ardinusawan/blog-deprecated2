@@ -15,7 +15,7 @@ export default function Index() {
           <h1>
             Hi, Welcome to Ardi Nusawan personal space<span className="fancy">.</span>
           </h1>
-          <span className="handle">@nextjs-netlify-blog</span>
+          <span className="handle">@Bali, Indonesia</span>
           <h2>A blog from developer to developer.</h2>
           <SocialList />
         </div>
