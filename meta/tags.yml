@@ -3,3 +3,5 @@ tags:
     name: personal
   - slug: coding
     name: coding
+  - slug: book
+    name: Book
